@@ -40,7 +40,7 @@
                 android:backgroundTint="@color/purple_500"
                 android:onClick="onDigitClick"
                 android:text="7"
-                android:textSize="25sp"
+                android:textSize="20sp"
                 tools:ignore="NestedWeights" />
 
             <Button
