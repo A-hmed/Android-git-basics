@@ -37,7 +37,7 @@
                 android:layout_height="match_parent"
                 android:layout_margin="8dp"
                 android:layout_weight="1"
-                android:backgroundTint="@color/purple_200"
+                android:backgroundTint="@color/purple_500"
                 android:onClick="onDigitClick"
                 android:text="7"
                 android:textSize="20sp"
